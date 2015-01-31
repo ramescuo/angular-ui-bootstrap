@@ -26,9 +26,7 @@ exclude = [
 // - Opera
 // - Safari
 // - PhantomJS
-browsers = [
-  'Chrome'
-];
+browsers = ['PhantomJS'];
 
 // test results reporter to use
 // possible values: dots || progress

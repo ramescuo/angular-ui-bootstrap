@@ -22,4 +22,5 @@ npm-debug.log
 
 template/**/*.js
 
+#IDE files
 .idea
